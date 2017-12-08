@@ -1,10 +1,10 @@
 <?php
 class Banco
 {
-    private static $dbNome = 'coldbeer';
-    private static $dbHost = 'localhost:3306';
-    private static $dbUsuario = 'root';
-    private static $dbSenha = '';
+    private static $dbNome = 'sql10209781';
+    private static $dbHost = 'sql10.freemysqlhosting.net';
+    private static $dbUsuario = 'sql10209781';
+    private static $dbSenha = 'RbbV4EE9hW';
     
     private static $cont = null;
     
