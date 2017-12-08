@@ -23,7 +23,7 @@
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="js/jssor.slider.min.js"></script>
-	<script type="text/javascript" src="js/jssor.slider.min.js"></script>
+	
 	 <script type="text/javascript">
         jQuery(document).ready(function ($) {
 
@@ -350,7 +350,7 @@
 											  <tbody>
 											    
 												<tr class="bg-warning">
-											        <th class="cadas" scope="row">Embalagem</th>
+											        <th class="cadas" scope="row">Conteúdo</th>
 											        <td><?php echo $linhaCerveja['Embalagem']; ?></td>
 											        <td></td>
 											        <td></td>
@@ -374,7 +374,7 @@
 											    </tr>
 												
 												<tr class="bg-warning">
-												 <th scope="row">Teor Alcoólico</th>
+												 <th scope="row">Preferecia</th>
 												 <td><?php echo $linhaCerveja['Teor']; ?></td>
 											     <td></td>
 											     <td></td>
