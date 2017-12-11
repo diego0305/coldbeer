@@ -232,12 +232,12 @@
               
             </div>
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/sminorff.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/dest1.jpg" />
               
             </div>
 			
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/red.jpeg"/>
+                <img data-u="image" src="img/gallery/1300x500/dest2.jpg"/>
               
             </div>
 			 

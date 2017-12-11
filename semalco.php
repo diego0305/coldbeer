@@ -225,27 +225,24 @@
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
          
             <div>
-                <img data-u="image" src="img/gallery/1300x500/05.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/nao.jpg" />
             </div>
             
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/004.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/nao1.jpg" />
               
             </div>
 			
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/black1.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/nao2.jpg" />
               
             </div>
 			
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/black2.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/nao3.jpg" />
               
             </div>
 			
-			 <div>
-                <img data-u="image" src="img/gallery/1300x500/003.jpg" />
-            </div>
 			 
                
         </div>
