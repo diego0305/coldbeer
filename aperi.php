@@ -227,19 +227,19 @@
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
            
             <div>
-                <img data-u="image" src="img/gallery/1300x500/black2.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/aperi1.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/gallery/1300x500/black.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/aperi2.jpg" />
               
             </div>
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/sminorff.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/aperi4.jpg" />
               
             </div>
 			
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/red.jpeg"/>
+                <img data-u="image" src="img/gallery/1300x500/aperi3.jpg"/>
               
             </div>
 			 

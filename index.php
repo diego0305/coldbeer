@@ -186,11 +186,11 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#" style="font-size:22px !important;">Destilado <span class="sr-only">(current)</spa></a></li>
+        <li class="active"><a href="destilada.html" style="font-size:22px !important;">Destilado <span class="sr-only">(current)</spa></a></li>
         <li><a href="refri.html">Refrigerantes</a></li>
 		<li><a href="semalco.html">Não Alcoólicas</a></li>
 		<li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aperetivos<span class="caret"></span></a>
+          <a href="aperi.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aperetivos<span class="caret"></span></a>
         </li>
       </ul>
       
